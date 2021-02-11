@@ -24,7 +24,7 @@ with the blessings of our parents, Invitiing you and your family to Our Receptio
 
 ```js
 
-const newCouple = 'Sonali & Gagan';
+const newCouple = 'yokesh & Vidhya';
 
 // Nov 29, 2020
 const weddingDate = new Date(2021, 02, 24);
