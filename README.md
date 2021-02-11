@@ -8,11 +8,10 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://sonali.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://vidhya-yokesh.netlify.app/"><img src="./assets/img/vy.jpeg" /></a>
 </details>
 
-With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
+with the blessings of our parents, Invitiing you and your family to Our Reception & wedding on 23rd and 24th Feb .
 
 - [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
 
@@ -29,17 +28,17 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 const newCouple = 'Sonali & Gagan';
 
 // Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
+const weddingDate = new Date(2021, 02, 24);
 
 // Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+const weddingVenue = new Location('NPR THIRUMANA MANDAPAM  , GUDUVANCHERRY');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://sonali.netlify.app/')
+        window.open('https://vidhya-yokesh.netlify.app/')
     );
 })();
 
