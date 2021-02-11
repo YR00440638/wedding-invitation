@@ -531,9 +531,11 @@ body {
 }
 
 .footer {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
 	color: #564861;
 	text-align: center;
-	font-size: 16px;
+	font-size: 24px;
 	margin: 24px;
 }
 
