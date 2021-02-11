@@ -10,7 +10,7 @@
   <a href="https://vidhya-yokesh.netlify.app/"><img src="./assets/img/vy.jpeg" /></a>
 </details>
 
-with the blessings of our parents, Invitiing you and your family to Our Reception & wedding on 23rd and 24th Feb .
+c
 
 - [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
 
