@@ -25,6 +25,7 @@ $(document).on('click', function(){
     console.log('Shaadi me zaroor aana');
 });
 
+
 // Set the date we're counting down to
 var countDownDate = new Date("Feb 24, 2021 00:00:00").getTime();
 
